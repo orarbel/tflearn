@@ -164,7 +164,7 @@ Output:
 DiCaprio Surviving Rate: 0.13849584758281708
 Winslet Surviving Rate: 0.92201167345047
 ```
-
+**SPOILER ALERT**  
 Impressive! Our model accurately predicted the outcome of the movie. The odds were against DiCaprio, but Winslet had a high chance of surviving.
 
 More generally, it can be seen through this study that women and children passengers from first class have the highest chance of surviving, while third class male passengers have the lowest.
